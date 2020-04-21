@@ -1,7 +1,7 @@
 # Context-aware recommendations using array of action-based bandit learners
 ---
 > Author: Dattaraj Rao (dattarajrao@yahoo.com) <br>
-> Profile: [Connect with me on LinkedIn!](https://www.linkedin.com/in/dattarajrao)
+> [Connect with me on LinkedIn!](https://www.linkedin.com/in/dattarajrao)
 ---
 
 Code in support of the paper "Context-aware recommendations using array of action-based bandit learners" by Dattaraj Rao.
